@@ -3,6 +3,13 @@
 ## Introduction
 This repository contains code for topic modeling using the SaudiNewsNet dataset. The topic modeling approach is based on the BERTopic library, as demonstrated in Abu Bakr Soliman's video tutorial and accompanying Colab notebook. I have adapted and modified the code for the SaudiNewsNet dataset after thorough understanding and research.
 
+## Bertopic Steps:
+BERTopic can be viewed as a sequence of steps to create its topic representations. There are
+five steps to this process:
+
+![image](https://github.com/MahmoudHassanen99/Topic-modeling-Bertopic/assets/88080392/07062855-31e4-4fa6-b7fa-290a4667446f)
+
+
 ## Dataset
 The SaudiNewsNet dataset consists of news articles from various sources related to Saudi Arabia. It covers a wide range of topics including politics, economy, culture, and more.
 
